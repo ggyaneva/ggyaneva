@@ -34,3 +34,5 @@ Experimental microservices-based version of RentFix focused on modular architect
 * Writing clean, maintainable, and testable Java code
 * Deepening my knowledge of Spring, cloud technologies, and microservices
 * Preparing for my first Backend Java Software Engineer role
+
+### 📍 Sofia, Bulgaria 🔗 LinkedIn: https://www.linkedin.com/in/gabriela-yaneva-006b78287
