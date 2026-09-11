@@ -1,38 +1,35 @@
 # Hi, I'm Gabriela 👋
 
-Business Informatics and Communication student passionate about backend development, software engineering, and cloud technologies.
+Business Informatics student and Junior Applications Administrator at Yettel Bulgaria, working with Oracle SQL/PL/SQL and Linux/Unix in a corporate environment.
 
-Currently working as an Internal Audit Trainee at Yettel Bulgaria, where I develop analytical thinking, gain insight into business processes, and work in a corporate environment.
+Backend developer with a SoftUni Java diploma, focused on building scalable applications with Spring Boot. My work sits at the intersection of development and operations — I care about how applications are designed, built, deployed, and kept running end-to-end, not just the code itself.
 
-I have successfully completed the Back-End Software Engineer with Java program and the Cloud & DevOps program at SoftUni. I enjoy building scalable backend applications and continuously improving my knowledge of modern software development practices.
+Outside of my day-to-day role, I'm building side projects that let me explore modular architecture, microservices, and the practices that make software reliable in production.
 
 ## 💻 Technical Skills
 
-* Java
-* Spring Boot & Spring MVC
-* REST APIs
-* MySQL & PostgreSQL
-* Docker
-* CI/CD
-* Cloud & DevOps Fundamentals
-* Git & GitHub
-* Software Architecture & Microservices Concepts
+- Java, Spring Boot, Spring MVC
+- REST APIs
+- Oracle SQL / PL/SQL, MySQL
+- Linux / Unix
+- Git & GitHub
+- Software architecture & microservices concepts
 
 ## 🚀 Projects
 
 ### RentFix
-
 Java Spring Boot application for property rental and maintenance management.
 
 ### Microservice-RentFix
+Microservices-based version of RentFix — modular architecture, containerized services, service-oriented design.
 
-Experimental microservices-based version of RentFix focused on modular architecture, containerized services, and service-oriented design.
+## 🎯 Focus
 
-## 🎯 Currently Focusing On
+- Writing clean, maintainable Java
+- Building applications with production in mind — deployment, automation, operations
+- Software architecture and microservices
 
-* Building production-ready backend applications
-* Writing clean, maintainable, and testable Java code
-* Deepening my knowledge of Spring, cloud technologies, and microservices
-* Preparing for my first Backend Java Software Engineer role
+## 📍 Sofia, Bulgaria
 
-### 📍 Sofia, Bulgaria 🔗 LinkedIn: https://www.linkedin.com/in/gabriela-yaneva-006b78287
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriela-yaneva-006b78287)
+
